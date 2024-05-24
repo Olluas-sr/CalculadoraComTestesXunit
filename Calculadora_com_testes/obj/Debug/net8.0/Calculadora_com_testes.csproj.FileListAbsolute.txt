@@ -1,0 +1,14 @@
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\bin\Debug\net8.0\Calculadora_com_testes.exe
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\bin\Debug\net8.0\Calculadora_com_testes.deps.json
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\bin\Debug\net8.0\Calculadora_com_testes.runtimeconfig.json
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\bin\Debug\net8.0\Calculadora_com_testes.dll
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\bin\Debug\net8.0\Calculadora_com_testes.pdb
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\obj\Debug\net8.0\Calculadora_com_testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\obj\Debug\net8.0\Calculadora_com_testes.AssemblyInfoInputs.cache
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\obj\Debug\net8.0\Calculadora_com_testes.AssemblyInfo.cs
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\obj\Debug\net8.0\Calculadora_com_testes.csproj.CoreCompileInputs.cache
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\obj\Debug\net8.0\Calculadora_com_testes.dll
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\obj\Debug\net8.0\refint\Calculadora_com_testes.dll
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\obj\Debug\net8.0\Calculadora_com_testes.pdb
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\obj\Debug\net8.0\Calculadora_com_testes.genruntimeconfig.cache
+C:\Users\saull\source\repos\Calculadora_com_testes\Calculadora_com_testes\obj\Debug\net8.0\ref\Calculadora_com_testes.dll
